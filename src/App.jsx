@@ -357,6 +357,8 @@ function App() {
     year: "numeric",
   })}
 </td>
+
+
                       <td>{t.description}</td>
                       <td>{t.category}</td>
                       <td>
